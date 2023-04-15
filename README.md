@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Use `querySelector()` and `querySelectorAll()` to find nested nodes.
-- Modify attributes of DOM nodes.
+- Use `querySelector()` and `querySelectorAll()` to find nested nodes
+- Modify attributes of DOM nodes
 
 ## Introduction
 
